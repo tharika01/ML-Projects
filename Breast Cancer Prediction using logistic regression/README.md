@@ -24,11 +24,7 @@ Code is provided in the `Breast Cancer detection using logistic regression.ipynb
 In a terminal or command window, navigate to the top-level project directory `"Breast Cancer Prediction using logistic regression"/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook boston_housing.ipynb
-```  
-or
-```bash
-jupyter notebook boston_housing.ipynb
+jupyter notebook "Breast Cancer detection using logistic regression.ipynb"
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
