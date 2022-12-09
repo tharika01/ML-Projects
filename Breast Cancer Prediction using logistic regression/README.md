@@ -1,5 +1,5 @@
 
-# Breast Cancer Detection Using  Logistic Regression
+# Breast Cancer Detection Using  Logistic Regression and XGBoost
 
 Determining whether tumor is benign or malignant based features such as clump thickness, Uniformity of  cell size, Uniformity of cell shape, Marginal adhesion, cell size, and mitoses.
 
@@ -10,7 +10,8 @@ Determining whether tumor is benign or malignant based features such as clump th
  - [Pandas](http://pandas.pydata.org/)
  - [Matplotlib](https://matplotlib.org/)
  - [Scikit-learn](https://scikit-learn.org/stable/)
-
+ - [XGBoost](https://xgboost.readthedocs.io/en/stable/install.html#python)
+ 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install.html).
 
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/download/) distribution of Python, which already has the above packages and more included. 
