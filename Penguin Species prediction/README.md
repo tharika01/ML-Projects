@@ -18,7 +18,7 @@ You must use the [Palmer Penguins](https://allisonhorst.github.io/palmerpenguins
 
 ### Run
 
-This project was implemented on CoLab, just click and run on your favourite web browser.
+This project was implemented on CoLab, just click on open with CoLab and you are good to go.
 
 ### Data
 
