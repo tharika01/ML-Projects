@@ -26,7 +26,7 @@ The dataset used here is found at [Palmer Penguins](https://allisonhorst.github.
 This dataset is used to classify penguins based on the bill length , bill depth and flipper length and body mass. 
 The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
 
-### One of the Trees from the random forest classifier
+### One of the Trees from the random forest classifier(depth = 5)
 
 ![tfdf](https://user-images.githubusercontent.com/89331974/206885651-74791e51-03c6-49e8-b184-027b8d5427ba.jpg)
 
