@@ -2,6 +2,7 @@
 
 Determining the penguin species based on the bill length, bill depth, flapper length and body mass.
 
+![image](https://user-images.githubusercontent.com/89331974/206885543-9af78447-1301-4aab-9720-c0456c316371.png)
 
 ## Install
 
@@ -25,4 +26,7 @@ The dataset used here is found at [Palmer Penguins](https://allisonhorst.github.
 This dataset is used to classify penguins based on the bill length , bill depth and flipper length and body mass. 
 The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
 
-![image](https://user-images.githubusercontent.com/89331974/206885543-9af78447-1301-4aab-9720-c0456c316371.png)
+### One of the Trees from the random forest classifier
+
+![tfdf](https://user-images.githubusercontent.com/89331974/206885651-74791e51-03c6-49e8-b184-027b8d5427ba.jpg)
+
